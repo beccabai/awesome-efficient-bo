@@ -1,1 +1,1 @@
-# awesome-efficient-bo
+# Awesome Efficient Bayesian Optimization methods
