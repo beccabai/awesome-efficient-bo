@@ -1,4 +1,4 @@
 # Awesome Efficient Bayesian Optimization methods
 This is a list to know about the popular black-box optimization Bayesian Optimization.
 # Review
-*[IEEE 2015] 
+* [IEEE 2015] 
